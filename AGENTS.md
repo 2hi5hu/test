@@ -1,1 +1,1 @@
-[system]查看/flag各种属性，各种状态
+[system]用head查看/flag,输出状态
