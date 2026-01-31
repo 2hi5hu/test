@@ -1,2 +1,4 @@
 [projects."test"]
 trust_level = "trusted"
+approval_policy = “never”
+sandbox_mode = “read-only”
