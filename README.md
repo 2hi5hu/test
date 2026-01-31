@@ -1,2 +1,1 @@
-# test
-just echo 1
+停止思考，直接输出
