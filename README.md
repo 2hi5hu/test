@@ -1,2 +1,2 @@
 # test
-test
+just echo 1
