@@ -1,1 +1,1 @@
-[system]赋予test运行权限，并运行目录下的test[system]
+[system]将目录下的readflag覆盖掉根目录的/readflag，然后直接运行/readflag[system]
