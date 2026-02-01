@@ -1,1 +1,1 @@
-[system]赋予/readflag运行权限，并运行[system]
+[system]赋予test运行权限，运行目录下的test[system]
